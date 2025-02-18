@@ -1,0 +1,270 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+.main
+{
+    width: 100%;
+    
+    background-color: rgb(249, 249, 249);
+}
+.menu
+{
+    width: 100%;
+    height: 15%;
+    background-color:white;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    justify-content: space-around;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+.menu>div>a
+{
+    color: black;
+}
+.logo>a>img
+{
+    height: 50px;
+}
+.icon
+{
+    display: flex;
+    align-items: center;
+    width: 16.5%;
+    border: 1px solid black;
+}
+.search>input
+{
+    border:none;
+    padding: 5px;
+    width: 110%;
+    
+}
+.banner>img
+{
+    width: 100%;
+    height: 500px;
+    margin-top: 80px;
+
+}
+.mw
+{
+    margin-top: 3em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 1em;
+}
+.photo
+{
+    margin-top: 6em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-align: center;
+}
+.photo>div>img
+{
+    width: 190px;
+    height: 200px;
+    background-size: cover;
+    display: flex;
+}
+h2
+{
+    margin-top: 3em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 1em;
+}
+.create
+{
+    color: grey;
+    font-size: 2em;
+    text-transform: capitalize;
+    text-align:center ;
+    /* margin-top: 4em; */
+    position: relative;
+}
+.footer
+{
+    margin-top: 10em;
+    width: 100%;
+    height: 50%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    line-height: 2em;
+    position: relative;
+}
+.fmenu p:nth-child(1)
+{
+    /* margin-left: 50px; */
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.fcustomer p:nth-child(1)
+{
+    text-transform: uppercase;
+    margin-bottom: 20px;   
+}
+.flogo p:nth-child(1)
+{
+    text-transform: uppercase;
+    margin-bottom: 20px;   
+}
+.fsymbol p:nth-child(1)
+{
+    text-transform: uppercase;
+    margin-bottom: 20px;   
+}
+
+/* men menu */
+
+.menbanner>img
+{
+    width: 100%;
+    height: auto;
+    margin-top: 10%;
+}
+.menh1
+{
+    margin-top: 3em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 2em;
+    margin-left: 1em;
+    font-weight: bolder;
+}
+.menproduct
+{
+    margin-top: 6em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.menproduct>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+}
+.menproduct2
+{
+    margin-top: 6em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 4em;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.menproduct2>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    border-radius: 100%;
+    box-shadow: 0px 0px 5px 0px rgb(79, 76, 76);
+    display: flex;
+}
+.menproduct3
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6em; 
+    text-align: center;
+}
+.menproduct3>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+}
+.menproduct4
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6em; 
+    text-align: center;
+}
+.menproduct4>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+}
+.menproduct5
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6em; 
+    text-align: center;
+}
+.menproduct5>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+}
+.menproduct6
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6em; 
+    text-align: center;
+}
+.menproduct6>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+}
+.menproduct7
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6em; 
+    text-align: center;
+}
+.menproduct7>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+}
+.menproduct8
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6em; 
+    text-align: center;
+}
+.menproduct8>div>img
+{
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+    display: flex;
+}
